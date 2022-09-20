@@ -57,7 +57,7 @@
                                 <ul class="single-dropdown">
                                     <li><a href="about-us.html">about us</a></li>
                                     <li><a href="menu-list.html">menu list</a></li>
-                                    <li><a href="login.html">login</a></li>
+                                    <li><a href="login.php">login</a></li>
                                     <li><a href="register.html">register</a></li>
                                     <li><a href="cart.html">cart page</a></li>
                                     <li><a href="checkout.html">checkout</a></li>
@@ -181,7 +181,7 @@
                     </div>
                     <div class="header-login">
                         <ul>
-                            <li><a href="login.html">Login</a></li>
+                            <li><a href="login.php">Login</a></li>
                             <li><a href="register.html">Reg</a></li>
                         </ul>
                     </div>
@@ -268,7 +268,7 @@
                                     <ul>
                                         <li><a href="about-us.html">about us</a></li>
                                         <li><a href="menu-list.html">menu list</a></li>
-                                        <li><a href="login.html">login</a></li>
+                                        <li><a href="login.php">login</a></li>
                                         <li><a href="register.html">register</a></li>
                                         <li><a href="cart.html">cart page</a></li>
                                         <li><a href="checkout.html">checkout</a></li>
@@ -2014,7 +2014,7 @@
                                 <ul>
                                     <li><a href="cart.html">Cart</a></li>
                                     <li><a href="register.html">My Account</a></li>
-                                    <li><a href="login.html">Login</a></li>
+                                    <li><a href="Login.php">Login</a></li>
                                     <li><a href="register.html">Register</a></li>
                                     <li><a href="#">Support</a></li>
                                     <li><a href="#">Track</a></li>
