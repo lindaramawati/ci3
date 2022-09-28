@@ -33,13 +33,17 @@
         <div class="header-area">
             <div class="header-left-sidebar">
                 <div class="logo">
-                    <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                    <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
                 </div>
                 <div class="main-menu menu-hover">
                     <nav>
                         <ul>
+<<<<<<< HEAD
                             <li><a href="index.php">Home</a>
                             </li>
+=======
+                            <li><a href="#">Home</a></li>
+>>>>>>> 993b2ba78392c97978055e89565dfdb5b8611a0c
                             <li><a href="#">Pages</a>
                                 <ul class="single-dropdown">
                                     <li><a href="about-us.html">about us</a></li>
@@ -52,6 +56,7 @@
                                     <li><a href="contact.html">contact</a></li>
                                 </ul>
                             </li>
+<<<<<<< HEAD
                         </ul>
                     </nav>
                 </div>
@@ -81,6 +86,34 @@
                         <ul>
                             <li><a href="Login.php">Login</a></li>
                             <li><a href="register.html">Register</a></li>
+=======
+                        </div>
+                        <div class="header-right-sidebar">
+                            <div class="header-search-cart-login">
+                                <div class="logo">
+                                    <a href="index.html">
+                                        <img src="assets/img/logo/logo.png" alt="">
+                                    </a>
+                                </div>
+                                <div class="header-search">
+                                    <form action="#">
+                                        <input placeholder="Search What you want" type="text">
+                                        <button>
+                                            <i class="ti-search"></i>
+                                        </button>
+                                    </form>
+                                </div>
+                                <div class="header-login">
+                                    <ul>
+                                        <li><a href="login.php">Login</a></li>
+                                        <li><a href="register.html">Reg</a></li>
+                                    </ul>
+                                </div>
+                            <li class="cart-btn-wrapper">
+                                <a class="cart-btn btn-hover" href="#">view cart</a>
+                                <a class="cart-btn btn-hover" href="#">checkout</a>
+                            </li>
+>>>>>>> 993b2ba78392c97978055e89565dfdb5b8611a0c
                         </ul>
                     </div>
                 </div>
